@@ -1,0 +1,52 @@
+Malamin Jagana's Portfolio
+License
+This portfolio is licensed under the Creative Commons Attribution 3.0 Unported License.
+
+License Summary
+License Type: Creative Commons Attribution 3.0 Unported
+License Link: CC BY 3.0
+License Details
+Definitions
+Adaptation: A work based upon the Work, including translations, adaptations, derivative works, or any other alteration of the original Work.
+Collection: A collection of works where the Work is included along with other contributions, forming a collective whole.
+Distribute: Making the Work available to the public through sale or other forms of transfer.
+Licensor: The entity offering the Work under the terms of the license.
+Original Author: The individual or entity who created the Work.
+Work: The literary and/or artistic work offered under the terms of this License, including various forms of expression such as books, lectures, performances, broadcasts, and more.
+You: The individual or entity exercising the rights granted by this License.
+License Grant
+Subject to the terms and conditions of this License, the Licensor grants You a worldwide, royalty-free, non-exclusive, perpetual license to:
+
+Reproduce the Work and incorporate it into one or more Collections.
+Create and reproduce Adaptations, provided changes are clearly identified.
+Distribute and publicly perform the Work, including as incorporated in Collections.
+Distribute and publicly perform Adaptations.
+Fair Dealing Rights
+This License does not limit uses free from copyright or rights arising from limitations or exceptions provided for in copyright law or other applicable laws.
+
+Restrictions
+The license is subject to certain restrictions, including:
+
+Distribution and Performance: You may distribute or publicly perform the Work only under the terms of this License.
+Attribution: You must include a copy of, or the URI for, this License with every copy of the Work you distribute or publicly perform.
+No Technological Measures: You may not impose any effective technological measures on the Work that restrict the recipient's rights under the license.
+Representations, Warranties, and Disclaimer
+The Work is provided "as-is," and the Licensor makes no representations or warranties concerning the Work's fitness for a particular purpose, absence of defects, accuracy, or other attributes.
+
+Limitation on Liability
+Except as required by applicable law, the Licensor is not liable for any special, incidental, consequential, punitive, or exemplary damages arising out of this License or the use of the Work.
+
+Termination
+This License and the rights granted terminate automatically upon any breach by You. However, Adaptations or Collections distributed by You will not have their licenses terminated if the recipients comply with the license terms.
+
+Miscellaneous
+Each time You distribute or publicly perform the Work or a Collection, the Licensor offers a license to the recipient on the same terms and conditions.
+If any provision of this License is invalid, it will not affect the validity of the remaining terms.
+This License constitutes the entire agreement between the parties with respect to the Work licensed here.
+For the full text of the license, please visit CC BY 3.0.
+
+
+
+
+
+
